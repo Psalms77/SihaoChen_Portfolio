@@ -1,3 +1,6 @@
+Hi, this is Sihao Chen's Personal Page source code using Massively html5 tamplate. 
+Welcome to my GitHub Page. 
+
 This pages uses the Massively template. this is the licence. 
 
 ___________________________________________________________________________________________________________________
